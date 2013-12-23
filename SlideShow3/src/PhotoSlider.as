@@ -67,7 +67,7 @@ package
 			
 			Tween24.parallel(
 				Tween24.prop(target).height(0).blur(0, 16).x(tx).scaleX(1.1),
-				Tween24.tween(target, 0.2, Ease24._1_SineOut).x(0).scaleX(1).height(32).delay(delayMS / 2000),
+				Tween24.tween(target, 0.2, Ease24._1_SineOut).x(0).scaleX(1).height(32).delay(delayMS / 1000),
 				Tween24.tween(target, 1, Ease24._1_SineOut).blur(0, 0).delay(delayMS / 1000)
 			).play();
 		}
