@@ -81,7 +81,7 @@ package
 			for (var i:int = 0; i < n; i++)
 			{
 				var photoSlider:PhotoSlider = _photoSliderList[i];
-				photoSlider.doTween(i * (n - i) * 10);
+				photoSlider.doTween(i * (n - i) * 5);
 			}
 		}
 	}

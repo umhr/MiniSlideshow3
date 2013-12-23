@@ -32,16 +32,16 @@
     </define>
     <verbose-stacktraces>true</verbose-stacktraces>
     <source-path append="true">
-      <path-element>C:\Users\宗士\SkyDrive\studies\1311\SlideShow3\src</path-element>
+      <path-element>D:\GitHub\MiniSlideshow3\SlideShow3\src</path-element>
       <path-element>C:\Program Files (x86)\FlashDevelop\Library\AS3\classes</path-element>
     </source-path>
     <library-path append="true">
-      <path-element>C:\Users\宗士\SkyDrive\studies\1311\SlideShow3\lib\Tween24_2.0.1.swc</path-element>
-      <path-element>C:\Users\宗士\SkyDrive\studies\1311\SlideShow3\lib\BulkLoader-rev-282.swc</path-element>
+      <path-element>D:\GitHub\MiniSlideshow3\SlideShow3\lib\Tween24_2.0.1.swc</path-element>
+      <path-element>D:\GitHub\MiniSlideshow3\SlideShow3\lib\BulkLoader-rev-282.swc</path-element>
     </library-path>
   </compiler>
   <file-specs>
-    <path-element>C:\Users\宗士\SkyDrive\studies\1311\SlideShow3\src\Main.as</path-element>
+    <path-element>D:\GitHub\MiniSlideshow3\SlideShow3\src\Main.as</path-element>
   </file-specs>
   <default-background-color>#FFFFFF</default-background-color>
   <default-frame-rate>30</default-frame-rate>
